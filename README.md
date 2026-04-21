@@ -1,5 +1,4 @@
 # README
-# NoSQL-Big-Data-and-Spark-Foundations-Specialization
 ## 📌 Overview
 This specialization focuses on building foundational skills in **Big Data technologies**, **Apache Spark**, and **NoSQL databases**—key competencies that are highly in demand in modern data engineering and data management roles.
 
